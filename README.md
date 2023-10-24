@@ -44,6 +44,6 @@
 - **Resolution 8 Features**: Avg. Vegetation Index, Avg. Land Surface Temperature, Avg. Built-Up Index, Total Bridges, Total Tunnels, Residential Road Length, Link Road Length, Total Roundabouts, Avg. Roads at Intersections, Avg. Speed Limit, Avg. Road Curvature.
 
 ### **Tools and Software**
-- **Python Libraries**: H3, SHAP.
-- **Spatial Software**: ArcGIS Pro.
+- **Python Libraries**: H3, SHAP, Pandas, Geopandas, scikit-learn.
+- **Spatial Software**: ArcGIS Pro, QGIS.
 - **Statistical Software**: R.
