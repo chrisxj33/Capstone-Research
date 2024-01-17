@@ -1,4 +1,4 @@
-## Research Summary: Analyzing Road Crashes in Greater Melbourne using Machine Learning
+## Research Summary: Analysing Road Crashes in Greater Melbourne using Machine Learning
 
 ### **1. Methodology**
 #### **1.1 Study Area and Data Sources**
